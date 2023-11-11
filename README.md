@@ -21,6 +21,10 @@ RESTful API architecture
 JSON Web Tokens (JWT) for authentication and authorization
 Other dependencies specified in the package.json file
 
+# Install packages
+
+express, cors, dotenv, mongoose, mongodb
+
 # Getting Started
 
 Clone this repository to your local machine.
